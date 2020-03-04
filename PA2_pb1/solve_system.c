@@ -1,3 +1,5 @@
+#include <stdlib.h>
+
 extern void svdcmp(float**,int,int,float*,float**);
 extern void svbksb(float**,float*,float**,int,int,float*,float*);
 

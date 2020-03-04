@@ -18,5 +18,14 @@
     <ClCompile Include="PA2_pb1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="solve_system.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="svbksb.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="svdcmp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
